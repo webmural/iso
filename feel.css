@@ -1,0 +1,25 @@
+html {
+  font: max(2em, 5vmax)/1.618 sans-serif;
+}
+
+body {
+  margin: auto;
+  overflow-wrap: anywhere;
+}
+
+article { 
+  font-size: inherit;
+  margin: 1em;
+}
+
+h1 {
+  margin: 0;
+}
+
+span {
+  font-weight: lighter;
+}
+
+p {
+  margin: auto;
+}
